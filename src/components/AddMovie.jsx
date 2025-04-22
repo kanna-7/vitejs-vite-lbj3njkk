@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "./AddMovie.css"
 
 const AddMovie = () => {
   const [formData, setFormData] = useState({
